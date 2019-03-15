@@ -1,6 +1,5 @@
 const Commando = require('discord.js-commando');
 const discord = require('discord.js');
-const TOKEN = 'NDYxODk4NTUxMTM2NDg1Mzg4.D2XYnQ.oXDll9z-4gfHiOkGQmPGxeFRP3Y'
 const bot = new Commando.Client({
     commandPrefix: 'p!'    
 });
