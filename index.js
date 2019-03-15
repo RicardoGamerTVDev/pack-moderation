@@ -62,4 +62,4 @@ bot.on('guildMemberRemove', member => {
         channel.sendEmbed(embed);
 });
 
-bot.login(TOKEN)
+bot.login(process.eny.BOT_TOKEN)
